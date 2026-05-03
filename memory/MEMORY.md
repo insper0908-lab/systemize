@@ -1,0 +1,1 @@
+- [국어 해설 독해 원칙 — 언어 장치 집중](feedback_korean_reading_principles.md) — 지시어/접속사/지시대명사 등 국어적 장치에 집중해서 독해 (수능 국어 해설 작업 시)
