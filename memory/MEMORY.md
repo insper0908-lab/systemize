@@ -1,1 +1,2 @@
-- [국어 해설 독해 원칙 — 언어 장치 집중](feedback_korean_reading_principles.md) — 지시어/접속사/지시대명사 등 국어적 장치에 집중해서 독해 (수능 국어 해설 작업 시)
+- [국어 해설 독해 원칙 — 언어 장치 집중](feedback_korean_reading_principles.md) — 지시어/접속사/어미 등 국어 장치에 집중, "그렇구나" 태도, 즉=등호, 그룹 묶기, 기표↔기의 대입
+- [체계 국어 해설 — 출력 형식 / HWPX 워크플로](feedback_haesul_format_workflow.md) — 스타일 ID 매핑, 문단/문제 출력 구조, 본문 표기 규칙(● → = + [ ]), HWPX zipfile 처리, 푸터/페이지 조정
