@@ -1,3 +1,4 @@
 - [국어 해설 독해 원칙 — 언어 장치 집중](feedback_korean_reading_principles.md) — 지시어/접속사/어미 등 국어 장치에 집중, "그렇구나" 태도, 즉=등호, 그룹 묶기, 기표↔기의 대입
 - [체계 국어 해설 — 출력 형식 / HWPX 워크플로](feedback_haesul_format_workflow.md) — 작업 순서, 스타일 ID 매핑(템플릿별), 출력 구조, 본문 표기 규칙, zipfile 처리
 - [체계 국어 해설 — Production 템플릿 출력 패턴](feedback_haesul_production_pattern.md) — 실제 사용 중인 production 해설(POINT 과학기술 해설.hwpx)의 구조·톤·문장별 ● 해설+흐름 코멘트 패턴 (레퍼런스: examples/)
+- [구문해설지 — 문장 단위 Q&A 워크시트](feedback_gumun_haeseolji.md) — "구문해설지 만들어줘" 시 출력 형식: 지문 → 순서대로 국어 장치 짚는 질문(7~) → 짧은 해설 → 마지막 2~3줄 흐름 압축 + "[제재] 이해 ㄴㄴ ㅇㅋ?"
