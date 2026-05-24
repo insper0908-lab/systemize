@@ -2,3 +2,4 @@
 - [체계 국어 해설 — 출력 형식 / HWPX 워크플로](feedback_haesul_format_workflow.md) — 작업 순서, 스타일 ID 매핑(템플릿별), 출력 구조, 본문 표기 규칙, zipfile 처리
 - [체계 국어 해설 — Production 템플릿 출력 패턴](feedback_haesul_production_pattern.md) — 실제 사용 중인 production 해설(POINT 과학기술 해설.hwpx)의 구조·톤·문장별 ● 해설+흐름 코멘트 패턴 (레퍼런스: examples/)
 - [구문해설지 — 문장 단위 Q&A 워크시트](feedback_gumun_haeseolji.md) — "구문해설지 만들어줘" 시 출력 형식. 두 모드: **간결형**(1~3단어) / **구조화형**(정리/문장곱씹기/그룹화 3섹션). 시범 13회 학습.
+- [systemize 레포 — 교재 작업 레퍼런스 저장소](reference_systemize_repo.md) — github.com/insper0908-lab/systemize. samples/[독서|문학]/[세부]/ 폴더에 누적되는 샘플 HWPX·PDF를 해설 작업 전 반드시 참고
